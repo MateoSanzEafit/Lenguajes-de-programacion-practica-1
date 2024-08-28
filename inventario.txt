@@ -1,0 +1,2 @@
+Producto {nombre = "lapiz", categoria = "colegio ", cantidad = 2}
+Producto {nombre = "llanta", categoria = "carro ", cantidad = 4}
